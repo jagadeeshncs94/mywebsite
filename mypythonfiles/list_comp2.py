@@ -1,3 +1,5 @@
+print("start of the script")
+
 result =[l for l in "python"]
 print(result)
 
