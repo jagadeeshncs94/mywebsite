@@ -29,5 +29,5 @@ for b in a:
     print(b+2)
 
 
-
+print("end of the script")
 
