@@ -1,2 +1,11 @@
 testfile
 newline
+
+hi
+hi
+hi
+
+dfs
+ds
+fd
+sd
