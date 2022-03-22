@@ -1,5 +1,3 @@
 testfile
 newline
 
-dsfd
-ds
